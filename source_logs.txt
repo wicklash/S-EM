@@ -1,0 +1,12 @@
+Timestamp: 2024-05-09 12:34:56, IP: 192.168.1.1, UserName: user1, Event-ID: 1, Message: This is an example log message, Machine: ExampleClass
+Timestamp: 2024-05-09 12:35:01, IP: 192.168.1.2, UserName: user2, Event-ID: 2, Message: An error occurred in the application, Machine: ExampleClass
+Timestamp: 2024-05-09 12:35:05, IP: 192.168.1.3, UserName: user3, Event-ID: 3, Message: Starting network connection, Machine: NetworkClass
+Timestamp: 2024-05-09 12:35:05, IP: 192.168.1.3, UserName: user3, Event-ID: 3, Message: Starting network connection, Machine: NetworkClass
+Timestamp: 2024-05-09 12:35:05, IP: 192.168.1.3, UserName: user3, Event-ID: 3, Message: Starting network connection, Machine: NetworkClass
+Timestamp: 2024-05-09 12:35:10, IP: 192.168.1.4, UserName: user4, Event-ID: 4, Message: Network connection established, Machine: NetworkClass
+Timestamp: 2024-05-09 12:35:15, IP: 192.168.1.5, UserName: user5, Event-ID: 5, Message: Low database space, Machine: DatabaseClass
+Timestamp: 2024-05-09 12:35:20, IP: 192.168.1.6, UserName: user6, Event-ID: 6, Message: Failed to write data, Machine: DatabaseClass
+Timestamp: 2024-05-09 12:35:25, IP: 192.168.1.7, UserName: user7, Event-ID: 7, Message: Completing processing of data, Machine: ExampleClass
+Timestamp: 2024-05-09 12:35:30, IP: 192.168.1.8, UserName: user8, Event-ID: 8, Message: Debug information, Machine: ExampleClass
+Timestamp: 2024-05-09 12:35:35, IP: 192.168.1.9, UserName: user9, Event-ID: 9, Message: User login successful, Machine: SecurityClass
+Timestamp: 2024-05-09 12:35:40, IP: 192.168.1.10, UserName: user10, Event-ID: 10, Message: Unauthorized access attempt detected, Machine: SecurityClass
